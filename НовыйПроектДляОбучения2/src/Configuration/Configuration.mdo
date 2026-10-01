@@ -39,4 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.ТестовыйСправочник</catalogs>
 </mdclass:Configuration>
